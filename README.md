@@ -24,10 +24,13 @@
 - :white_check_mark: A query is written and executed to create a Retiring Titles table that contains the number of titles filled by employees who are retiring. 
 - :white_check_mark: The Retiring Titles table is exported as retiring_titles.csv.
 
-<table style="width: 100px">
+<table style="width: 100%">
   <tr>
     <td>
       Retirement Titles Table
    </td>
+  </tr>
+  <tr>
+    <td><img src="" width=520 height=340></td>
   </tr>
 </table>
