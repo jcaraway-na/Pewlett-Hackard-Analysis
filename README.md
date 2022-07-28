@@ -91,7 +91,13 @@
     <td>Total number of retiring personel per job title.</td>
   </tr>
   <tr>
-    <td><img src="" width=100% height=100%></td>
+    <td><img src="https://github.com/jcaraway-na/Pewlett-Hackard-Analysis/blob/main/resources/retiring_titels_df.png" width=100% height=100%></td>
+  </tr>
+    <tr>
+    <td>Total number of retiring vs mentors.</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/jcaraway-na/Pewlett-Hackard-Analysis/blob/main/resources/mentor_retire_df.png" width=100% height=100%></td>
   </tr>
 </table>
 
