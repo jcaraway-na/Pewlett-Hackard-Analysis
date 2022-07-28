@@ -10,7 +10,7 @@
 
 - Deliverable 1: The Number of Retiring Employees by Title
 - Deliverable 2: The Employees Eligible for the Mentorship Program
-- Deliverable 3: Deliverable 3: A written report on the employee database analysis (README.md)
+- Deliverable 3: A written report on the employee database analysis (README.md)
 
 ---
 
@@ -26,10 +26,10 @@
 
 <table style="width: 100%">
   <tr>
-    <td>
+    <td bgcolor="green">
       Retirement Titles Table
    </td>
-      <td>
+      <td bgcolor="green">
         Retirement Titles Export
       </td>
   </tr>
@@ -38,10 +38,10 @@
     <td><img src="https://github.com/jcaraway-na/Pewlett-Hackard-Analysis/blob/main/resources/retirement_titles_export.png" width=100% height=100%></td>
   </tr>
   <tr>
-    <td>
+     <td bgcolor="green">
       Unique Titles Table
    </td>
-    <td>
+     <td bgcolor="green">
       Unique Titles Export
    </td>
   </tr>
@@ -50,10 +50,10 @@
     <td><img src="https://github.com/jcaraway-na/Pewlett-Hackard-Analysis/blob/main/resources/unique_titles_export.png" width=100% height=100%></td>
   </tr>
     <tr>
-    <td>
+     <td bgcolor="green">
       Retiring Titles Table
    </td>
-    <td>
+     <td bgcolor="green">
       Retiring Titles Export
    </td>
   </tr>
@@ -71,15 +71,27 @@
 
 <table style="width: 100%">
   <tr>
-    <td>
+     <td bgcolor="green">
       Mentorship Elegibility Table
    </td>
-      <td>
+       <td bgcolor="green">
         Mentorship Elegibility Export
       </td>
   </tr>
   <tr>
-    <td><img src="" width=100% height=100%></td>
+    <td><img src="https://github.com/jcaraway-na/Pewlett-Hackard-Analysis/blob/main/resources/mentorship_eligibility.png" width=100% height=100%></td>
+    <td><img src="https://github.com/jcaraway-na/Pewlett-Hackard-Analysis/blob/main/resources/mentorship_eligibility_export.png" width=100% height=100%></td>
+  </tr>
+</table>
+
+### Deliverable 3: A written report on the employee database analysis (README.md)
+
+<table>
+  <tr>
+    <td>Total number of retiring personel per job title.</td>
+  </tr>
+  <tr>
     <td><img src="" width=100% height=100%></td>
   </tr>
 </table>
+
