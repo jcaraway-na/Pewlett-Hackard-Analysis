@@ -49,4 +49,37 @@
     <td><img src="https://github.com/jcaraway-na/Pewlett-Hackard-Analysis/blob/main/resources/unique_titles.png" width=100% height=100%></td>
     <td><img src="https://github.com/jcaraway-na/Pewlett-Hackard-Analysis/blob/main/resources/unique_titles_export.png" width=100% height=100%></td>
   </tr>
+    <tr>
+    <td>
+      Retiring Titles Table
+   </td>
+    <td>
+      Retiring Titles Export
+   </td>
+  </tr>
+    <tr>
+    <td><img src="https://github.com/jcaraway-na/Pewlett-Hackard-Analysis/blob/main/resources/retiring_titles.png" width=100% height=100%></td>
+    <td><img src="https://github.com/jcaraway-na/Pewlett-Hackard-Analysis/blob/main/resources/retiring_titles_export.png" width=100% height=100%></td>
+  </tr>
+</table>
+
+### Deliverable 2: The Employees Eligible for the Mentorship Program
+
+#### Requirements:
+- :white_check_mark: A query is written and executed to create a Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965. 
+- :white_check_mark: The Mentorship Eligibility table is exported and saved as mentorship_eligibilty.csv. 
+
+<table style="width: 100%">
+  <tr>
+    <td>
+      Mentorship Elegibility Table
+   </td>
+      <td>
+        Mentorship Elegibility Export
+      </td>
+  </tr>
+  <tr>
+    <td><img src="" width=100% height=100%></td>
+    <td><img src="" width=100% height=100%></td>
+  </tr>
 </table>
