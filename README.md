@@ -29,8 +29,12 @@
     <td>
       Retirement Titles Table
    </td>
+      <td>
+        Retirement Titles Export
+      </td>
   </tr>
   <tr>
-    <td><img src="" width=520 height=340></td>
+    <td><img src="https://github.com/jcaraway-na/Pewlett-Hackard-Analysis/blob/main/resources/retirement_titles.png" width=100% height=100%></td>
+    <td><img src="" width=100% height=100%></td>
   </tr>
 </table>
