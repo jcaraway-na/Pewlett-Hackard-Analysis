@@ -10,7 +10,7 @@
 
 - Deliverable 1: The Number of Retiring Employees by Title
 - Deliverable 2: The Employees Eligible for the Mentorship Program
-- Deliverable 3: Deliverable 3: A written report on the employee database analysis (README.md)
+- Deliverable 3: A written report on the employee database analysis (README.md)
 
 ---
 
@@ -83,3 +83,15 @@
     <td><img src="https://github.com/jcaraway-na/Pewlett-Hackard-Analysis/blob/main/resources/mentorship_eligibility_export.png" width=100% height=100%></td>
   </tr>
 </table>
+
+### Deliverable 3: A written report on the employee database analysis (README.md)
+
+<table>
+  <tr>
+    <td>Total number of retiring personel per job title.</td>
+  </tr>
+  <tr>
+    <td><img src="" width=100% height=100%></td>
+  </tr>
+</table>
+
