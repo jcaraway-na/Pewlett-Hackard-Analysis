@@ -46,7 +46,7 @@
    </td>
   </tr>
     <tr>
-    <td><img src="" width=100% height=100%></td>
-    <td><img src="" width=100% height=100%></td>
+    <td><img src="https://github.com/jcaraway-na/Pewlett-Hackard-Analysis/blob/main/resources/unique_titles.png" width=100% height=100%></td>
+    <td><img src="https://github.com/jcaraway-na/Pewlett-Hackard-Analysis/blob/main/resources/unique_titles_export.png" width=100% height=100%></td>
   </tr>
 </table>
