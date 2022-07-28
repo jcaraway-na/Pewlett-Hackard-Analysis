@@ -26,10 +26,10 @@
 
 <table style="width: 100%">
   <tr>
-    <td>
+    <td bgcolor="green">
       Retirement Titles Table
    </td>
-      <td>
+      <td bgcolor="green">
         Retirement Titles Export
       </td>
   </tr>
@@ -38,10 +38,10 @@
     <td><img src="https://github.com/jcaraway-na/Pewlett-Hackard-Analysis/blob/main/resources/retirement_titles_export.png" width=100% height=100%></td>
   </tr>
   <tr>
-    <td>
+     <td bgcolor="green">
       Unique Titles Table
    </td>
-    <td>
+     <td bgcolor="green">
       Unique Titles Export
    </td>
   </tr>
@@ -50,10 +50,10 @@
     <td><img src="https://github.com/jcaraway-na/Pewlett-Hackard-Analysis/blob/main/resources/unique_titles_export.png" width=100% height=100%></td>
   </tr>
     <tr>
-    <td>
+     <td bgcolor="green">
       Retiring Titles Table
    </td>
-    <td>
+     <td bgcolor="green">
       Retiring Titles Export
    </td>
   </tr>
@@ -71,10 +71,10 @@
 
 <table style="width: 100%">
   <tr>
-    <td>
+     <td bgcolor="green">
       Mentorship Elegibility Table
    </td>
-      <td>
+       <td bgcolor="green">
         Mentorship Elegibility Export
       </td>
   </tr>
